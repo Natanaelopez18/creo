@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#77B3D4</color>
+    <color name="colorPrimaryDark">#64A3C9</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorBackground">#77B3D4</color>
+    <color name="colorInputAndText">#FFFFFF</color>
+    <color name="colorButton">#E0E0E0</color>
+    <color name="colorButtonPressed">#BDBDBD</color>
+    <color name="placeHolderImage">#D3D3D3</color>
+    <color name="colorText">#000000</color>
+    <color name="colorBackgroundSignUp">#48C9B0</color>
+    <color name="firstColorTour">#0097A7</color>
+    <color name="secondColorTour">#FFA000</color>
+    <color name="background_card_view">#ffffff</color>
+    <color name="fragment_complaints_background_tint">#000000</color>
+    <color name="fragment_complaints_background">#ffffff</color>
+
+</resources>
